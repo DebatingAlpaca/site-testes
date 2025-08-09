@@ -1,0 +1,21 @@
+/* Tags, IDs e Classes */
+/* TAG */
+h1 {
+  color: rgb(182, 161, 43);
+}
+
+p {
+  font-size: 15px;
+}
+/* ID */
+#segundo-paragrafo,
+#primeiro-paragrafo,
+#terceiro-paragrafo {
+  color: red;
+  font-size: 20px;
+}
+/* CLASSE */
+.paragrafo {
+  color: rgb(29, 29, 158);
+  font-size: 30px;
+}
